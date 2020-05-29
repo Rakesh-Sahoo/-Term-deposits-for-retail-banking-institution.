@@ -1,4 +1,4 @@
-# -Term-deposits-for-retail-banking-institution.
+# Term-deposits-for-retail-banking-institution.
 ## Problem Statement 
  
 Your client is a retail banking institution. Term deposits are a major source of income for a bank.  
